@@ -35,9 +35,14 @@ Como configurar o envio de cabeçalhos HTTP da biblioteca para o projeto (**Font
 Como configurar o envio de cabeçalhos HTTP no consumo de recursos/endpoints (**Fonte: Elaborada pelo autor**)
 ![image](https://user-images.githubusercontent.com/13300754/143626692-f2426ea5-b742-44e2-bebe-b550dda55a18.png)
 
-# RESULTADO DO USO DA BIBLIOTECA
-- Executar o script "ApiMappingDatabaseScripts - Structure.sql" em seu servidor de banco de dados.
+# DADOS PARA TESTES
+- Executar o script "ApiMappingDatabaseScripts - FicticiousData.sql" em sua base de dados criada anteriormente.
+
+Dados gerados (**Fonte: Elaborada pelo autor**)
 ![image](https://user-images.githubusercontent.com/13300754/143626889-aab41bea-9a02-4076-9a50-932fd3ffb845.png)
+
+Cenário de testes gerado (**Fonte: Elaborada pelo autor**)
+![image](https://user-images.githubusercontent.com/13300754/143627140-d08bec08-3c0c-46d8-bb2c-36cb941d820a.png)
 
 # RELATÓRIOS GERADOS PELA BIBLIOTECA
 - Exemplos de como obter relatórios gerados pela bibliteca, ou obter o grafo para gerar seus próprios relatórios:
